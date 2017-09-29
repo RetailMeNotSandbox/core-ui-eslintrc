@@ -1,7 +1,5 @@
 # vim: set syntax=yaml:
 ---
-  fix: true
-  quiet: true
   env:
     node: true
   rules:
