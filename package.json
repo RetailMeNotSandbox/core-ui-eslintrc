@@ -1,6 +1,6 @@
 {
   "name": "@retailmenot/core-ui-eslintrc",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "description": "ESLint rules for RetailMeNot Core UI projects",
   "repository": {
     "type": "git",
